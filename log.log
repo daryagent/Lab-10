@@ -1,0 +1,15 @@
+2021-12-22 23:44:28,291 - Logger - ERROR - ValueError
+2021-12-22 23:44:31,923 - Logger - ERROR - ValueError
+2021-12-22 23:44:34,575 - Logger - ERROR - ValueError
+2021-12-22 23:44:36,268 - Logger - INFO - Started printing numbers
+2021-12-22 23:44:38,528 - Logger - INFO - Stopped printing numbers
+2021-12-22 23:44:39,650 - Logger - INFO - Programm is ended
+2021-12-22 23:47:13,334 - Logger - INFO - Started printing numbers
+2021-12-22 23:47:16,292 - Logger - INFO - Stopped printing numbers
+2021-12-22 23:47:16,785 - Logger - INFO - Programm is ended
+2021-12-22 23:47:48,469 - Logger - INFO - Started printing numbers
+2021-12-22 23:47:57,833 - Logger - INFO - Stopped printing numbers
+2021-12-22 23:47:58,138 - Logger - INFO - Programm is ended
+2021-12-22 23:48:13,613 - Logger - INFO - Started printing numbers
+2021-12-22 23:48:20,843 - Logger - INFO - Stopped printing numbers
+2021-12-22 23:48:22,590 - Logger - INFO - Programm is ended
